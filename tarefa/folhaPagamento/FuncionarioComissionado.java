@@ -4,10 +4,8 @@ public class FuncionarioComissionado {
     private double vendasMensais;
     private double percentualComissao;
     public FuncionarioComissionado(String nome, double vendasMensais, double percentualComissao, double salarioBase){
-        
     }
     public FuncionarioComissionado(){
-
     }
     public double calcularSalario(){
         return 0.0;
