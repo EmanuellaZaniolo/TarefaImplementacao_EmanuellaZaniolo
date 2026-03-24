@@ -1,4 +1,4 @@
-package Bibloteca;
+package tarefa.Biblioteca;
 
 public abstract class Pessoa {
     private String name;

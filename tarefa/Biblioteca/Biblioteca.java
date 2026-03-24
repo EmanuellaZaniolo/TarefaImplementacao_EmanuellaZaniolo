@@ -1,4 +1,4 @@
-package Bibloteca;
+package tarefa.Biblioteca;
 
 public class Biblioteca {
 
@@ -12,7 +12,7 @@ public class Biblioteca {
     public Biblioteca(){
 
     }
-    
+
     public String getNomeBloblioteca() {
         return nomeBloblioteca;
     }

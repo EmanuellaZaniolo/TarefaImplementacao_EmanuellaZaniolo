@@ -1,4 +1,4 @@
-package Bibloteca;
+package tarefa.Biblioteca;
 
 public class Emprestimo {
     private Livro livro;
@@ -9,6 +9,7 @@ public class Emprestimo {
     public Emprestimo(){
 
     }
+    
     public Emprestimo(Livro livro,Pessoa pessoa,String texto,String s){
 
     }

@@ -1,4 +1,4 @@
-package Bibloteca;
+package tarefa.Biblioteca;
 
 public class Professor extends Pessoa {
     private String departamento;

@@ -1,4 +1,4 @@
-package Bibloteca;
+package tarefa.Biblioteca;
 
 public class Estudante extends Pessoa {
     private int numMatricula;
